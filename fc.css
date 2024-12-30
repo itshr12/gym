@@ -1,0 +1,136 @@
+*{
+    background-color: #1b1b1b;
+    margin: 0;
+    padding: 0;
+}
+.b{
+    width: 1265px;
+}
+.c{
+    padding: 10px;
+    display: flex;
+    justify-content: end;
+}
+.dd{
+    margin-right: 550px;
+    background-color: transparent !important;
+    border: transparent !important;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif !important;
+    font-size: 26px !important;
+    font-weight: 1000 !important;
+    color: #fff !important;
+}
+.d,.e,.f,.g,.h,.dd{
+    color: #fff;
+    border: transparent;
+    text-decoration: none;
+    padding: 12px;
+    font-size: 18px;
+    border-radius: 18px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.d,.e,.f,.g{
+    margin-right: 30px;
+}
+.im{
+    float: right;
+    margin-top: 2px;
+}
+.tim1{
+    color: #fff;
+    font-family:  Times, 'Times New Roman', serif;
+    margin-left: 139px;
+    font-size: 59px;
+}
+.t2{
+    height: 300px;
+    color: #fff;
+    margin-top: 30px;
+    margin-left: 60px;
+}
+li{
+    padding-bottom: 20px;
+    font-size: 22px;
+}
+.ch1{
+    color:aliceblue;
+    margin-left: 119px;
+    margin-top: 50px;
+    font-size: 48px;
+    margin-bottom: 29px;
+}
+.ch2{
+    height: 30px;
+    background-color: aqua;
+    padding-left: 20px;
+    font-family:'Arial Narrow Bold', sans-serif;
+    font-size: 22px;
+}
+.ch5{
+    margin-top: 39px;
+}
+.ch8{
+    height: 30px;
+    background-color: palegreen;
+    padding-left: 20px;
+    font-family:'Arial Narrow Bold', sans-serif;
+    font-size: 22px;
+}
+.ch55{
+    margin-top: 39px;
+}
+.ch88{
+    height: 30px;
+    background-color: plum;
+    padding-left: 20px;
+    font-family:'Arial Narrow Bold', sans-serif;
+    font-size: 22px;
+}
+.con1{
+    color: #fff;
+    font-family:  Times, 'Times New Roman', serif;
+    margin-left: 119px;
+    font-size: 59px;
+    margin-top: 49px;
+}
+#q{
+    height: 40px;
+    background-color: palegoldenrod;
+    padding-left: 20px;
+    font-family:'Arial Narrow Bold', sans-serif;
+    font-size: 22px;
+}
+.con3{
+    margin-top: 29px;
+}
+#lol{
+    margin-top: 56px;
+    background-color: white;
+    font-size: 44px;
+}
+@media only screen and (max-width: 1000px)
+{
+    .b{
+        width: 100%;
+        height: 50vh;
+    }
+    .im{
+        width: 100%;
+        height: 100vh;
+    }
+    #new1{
+        display: flex;
+    }
+    .new{
+        font-size: 12px;
+    }
+    .d,.e,.f,.h{
+        font-size: 12px;
+        padding: none;
+        
+    }
+    .c{
+        padding: 0%;
+        margin-bottom: 0%;
+    }
+}
